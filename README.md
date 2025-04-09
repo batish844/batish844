@@ -54,7 +54,7 @@ _Rafik Hariri University (ABET Accredited)_
 
 ## 🚀 Selected Projects
 
-- **EduLearn** _(in progress)_  
+- **Learnova** _(in progress)_  
   AI-powered e-learning platform tailored for the Lebanese curriculum. Built with Laravel, RAG, adaptive dashboards.  
   🔗 Project link coming soon
 
